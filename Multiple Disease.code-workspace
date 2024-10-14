@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../heart_disease.csv"
+		},
+		{
+			"path": "../enjoysport.csv"
+		}
+	],
+	"settings": {}
+}
