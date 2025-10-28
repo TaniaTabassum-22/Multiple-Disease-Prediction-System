@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ```bash
 
 streamlit run app.py        # or the respective script in your repo  
-
+```
 5. Open your browser to http://localhost:8501 (default) and interact with the UI.
 
 📊 Results & Demo
@@ -80,3 +80,7 @@ UI displays simplified explanation and highlights key contributing features.
 
 ---
 
+##  License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
