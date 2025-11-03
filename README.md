@@ -50,7 +50,7 @@ User Input → Pre-Processing → Feature Extraction → Model Inference (for ea
 ## 📥 Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Multiple-Disease-Prediction-System.git  
+   git clone https://github.com/username/Multiple-Disease-Prediction-System.git  
    cd Multiple-Disease-Prediction-System
    ```
 2. Create a virtual environment:
