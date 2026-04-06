@@ -159,7 +159,7 @@ def sign_up_page():
             users_db[username] = password
             st.session_state.signed_up = True
             st.success('Sign up successful! Redirecting to the main page...')
-            st.experimental_rerun()  # Redirect to the main page
+            st.rerun()  # Redirect to the main page
 
 # Main Page
 def main_page():
